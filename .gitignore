@@ -1,0 +1,27 @@
+# 컴파일된 Java 클래스 파일
+*.class
+
+# Maven 관련
+target/
+
+# Gradle 관련
+build/
+.gradle/
+.gradle-cache/
+
+# IDE 설정 파일
+.idea/
+*.iml
+.vscode/
+
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 환경 설정 파일
+*.properties
+*.yml
+*.env
